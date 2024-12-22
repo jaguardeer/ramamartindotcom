@@ -8,8 +8,11 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.textstyle {
+h1 p {
     background-color: LightGray;
 }
