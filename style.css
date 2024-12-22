@@ -1,6 +1,13 @@
-body{
-    background-image:url('coffee.jpeg');
-    background-attachment:fixed;
+body {
+    background-image: url('coffee.jpeg');
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+div container {
+    background-color: LightGray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
